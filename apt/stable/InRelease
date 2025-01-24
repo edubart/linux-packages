@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Wed, 28 May 2025 19:38:38 +0000
+Label: Cartesi APT Repository
+Origin: Cartesi
+Suite: stable
+MD5Sum:
+ 54c4356e6f33d29293284743e92c410f            13493 Packages
+ 7e1a817e212306b960ebc3781cc6a8e3             3520 Packages.gz
+ 44507c14005bb46ed47901ca3163092b               98 Release
+SHA1:
+ ad2b746e639b33c8ff6ef4a2b35d7cb2f816429a            13493 Packages
+ cc19aca51532e3fd31913222f6b66c30887eec63             3520 Packages.gz
+ 8cda80d44cf1d48b1dea3eb97ca01c8f258b57c0               98 Release
+SHA256:
+ 7583ad0919efd6670561c525972da00ee859ba2367f05a99bd92359c51f9dd08            13493 Packages
+ 041e1ab904e3e81d1605187f4560ccc170c99ddbbce5a335591815b467aa9c20             3520 Packages.gz
+ dac3832335fdfe2ceea306855a845badacaf572a83dcb455867a1fe5ecabb632               98 Release
+SHA512:
+ ab3f60e00136f1d6090b453969f3a2f573df1ccbc09fed792fb277ec0bd9091c9ee414e419be529378fa0593bad3cd68da131934d2489024bf5685cfbc2ad659            13493 Packages
+ ea2b1c00f3aca0a86a3222fe9e295b4b195657302b42f7cbc7b198150922a52a34896b1348c46556b4ca5110d43dbb8be7578cdc1accff725d5493f6647aafce             3520 Packages.gz
+ afefd9a5fd631682b204fa7c67874a32f1aed04b7522bd197d56b4001e675d93f8337c6c92996a59815d2101496c2ee5fc081c303c0ca6c6252370d9316c0746               98 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEr+okFx+iireNqrwdFbt0LjqlQYcFAmg3Zj4ACgkQFbt0Ljql
+QYdKnw/+MOMydLeqBBZ3jkBbTn3EYxvIY8qaMROmfjgybCwNSuwzKukSctotE/gx
+torEqzdbWSLYWT71XmR60ALN+1tC8C6/16LFaLO2l9xPa2QPl95QYMsUW1LpIUMD
+ozd2MgNZMUkUBdC8o7htEMjyFcpY/O9iy9jAYIIeFSqTJsH4Y9xk2zGIj5nGmdaQ
+vpJklfJdYkO1FmWH7UwVH3leCb1JuHr6Gc1xvt2B62uwtBmukT2h0EROyWJwd/Tn
+jqvbTlUAWv/B9r6YlMxXJ4c5P7+uZdjG0BomDAzeHNFRz6jhOnLI9qaOfpEEp/DY
+HmJbmOSC2TTJA8JOB1xyd3oG6QqbCCxopSIFgDOantAg6WKgt1SgZCluuMui+mit
+NyDsoN9F1c8xj9d/nyGvB/JFJqGbsxzS06B3FeoCkxEx/t+GAnRCbopqSYUabS/9
+izgf5/q8tFFhTSpVP4Ga8GzCGJPma1Isyyx0Y8G56fdaKeAYv4J3dXOuh6OvVQLy
++dzQaxEaO7ea7i93nMcruzPDXp6ikX1mIkeVoInjxNBTiJTu8NdFnkIGs+Qore31
+5DLUFTpxexSMAaoXjw4t5702nbh5/JqVO6g08nAsYaOtf4ypm9ml1X11XR6t02ug
+G0xIGimbrbIO7ROXQMmF6L5t/uOGElXcK+SsNu2b0pAHHtCW6kk=
+=Zybs
+-----END PGP SIGNATURE-----

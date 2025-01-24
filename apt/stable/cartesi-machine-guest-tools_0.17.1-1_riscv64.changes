@@ -1,0 +1,70 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Wed, 28 May 2025 13:20:35 +0000
+Source: cartesi-machine-guest-tools
+Binary: cartesi-machine-guest-libcmt cartesi-machine-guest-libcmt-dev cartesi-machine-guest-tools
+Built-For-Profiles: noudeb
+Architecture: source riscv64
+Version: 0.17.1-1
+Distribution: RELEASED
+Urgency: low
+Maintainer: Cartesi Machine Reference Unit
+Changed-By: Cartesi Deb Builder <cartesi-deb-builder@builder>
+Description:
+ cartesi-machine-guest-libcmt - Cartesi Machine guest libcmt
+ cartesi-machine-guest-libcmt-dev - Cartesi Machine guest libcmt development files
+ cartesi-machine-guest-tools - Cartesi Machine guest tools
+Changes:
+ cartesi-machine-guest-tools (0.17.1-1) RELEASED; urgency=low
+ .
+   * Please read the project sources for release change logs.
+Checksums-Sha1:
+ a0a459a861f8d15e8ef0f5de71bdb95cd959c3b5 2207 cartesi-machine-guest-tools_0.17.1-1.dsc
+ 39f4cbab0598f529bfdc691787d143084f84428e 268681 cartesi-machine-guest-tools_0.17.1.orig.tar.gz
+ 48981523799d389de20c7351904ca84f6dec80dc 1680 cartesi-machine-guest-tools_0.17.1-1.debian.tar.xz
+ 29a2f5410fb4a57f3c6f53bc69b8f3893f9f0984 33972 cartesi-machine-guest-libcmt-dbgsym_0.17.1-1_riscv64.ddeb
+ 7993f29c7071afc4ab06e00e005f4601cd83d3d2 47320 cartesi-machine-guest-libcmt-dev_0.17.1-1_riscv64.deb
+ 7213e9e7a5b22a6be1b394c3042e12743fcd6847 17266 cartesi-machine-guest-libcmt_0.17.1-1_riscv64.deb
+ 356b417792f18be0a11a53ab11ebdcd39cdcd7b8 1069044 cartesi-machine-guest-tools-dbgsym_0.17.1-1_riscv64.ddeb
+ 3412e9b151b4877db172f5032c785b53f847763d 10027 cartesi-machine-guest-tools_0.17.1-1_riscv64.buildinfo
+ 42e35b00024f432ae48e7cab228943c81bbba787 1829256 cartesi-machine-guest-tools_0.17.1-1_riscv64.deb
+Checksums-Sha256:
+ 726dfa188b6b5c67635b633d1320e6b26849d6f8a0741ae4696467ffa067e91e 2207 cartesi-machine-guest-tools_0.17.1-1.dsc
+ c450a825702f85c0e85ac3bc9010733c8f1f6b0c18129b1d21e407f72b20c046 268681 cartesi-machine-guest-tools_0.17.1.orig.tar.gz
+ 21ec63a8224731c209ef8dcb4681272e129541554851165837d8191e1bde3a80 1680 cartesi-machine-guest-tools_0.17.1-1.debian.tar.xz
+ e9e4db94396ba60559f0105803f072f5bd9b00c8c32d26f3ceff3d53c5d4a3d8 33972 cartesi-machine-guest-libcmt-dbgsym_0.17.1-1_riscv64.ddeb
+ f77fd6d344da08b817a0d6624967526ff4b23898e19e2e7e4df6d979f959239a 47320 cartesi-machine-guest-libcmt-dev_0.17.1-1_riscv64.deb
+ affea54abeeba41fe8d1bd54eff66feae564e7ff76bf6d70aed3d3e2d0a7a7e9 17266 cartesi-machine-guest-libcmt_0.17.1-1_riscv64.deb
+ 1762b1058b945de562b3d9960907771a69c2bda28c43c52d0584e17cbb74703d 1069044 cartesi-machine-guest-tools-dbgsym_0.17.1-1_riscv64.ddeb
+ dd2169233e29bb9fe964b6316c6668f226d6e852600663cec43d9b6d5149ac2b 10027 cartesi-machine-guest-tools_0.17.1-1_riscv64.buildinfo
+ 0a262119707ed1401f91fdd65c0838733bac7906ccc5b5b986754d14bcaa3e88 1829256 cartesi-machine-guest-tools_0.17.1-1_riscv64.deb
+Files:
+ 08c8bd2f3c826eeb2451622ab5fa5bb4 2207 utils optional cartesi-machine-guest-tools_0.17.1-1.dsc
+ c3696d35796c7d05fb1cbf25833ff6d7 268681 utils optional cartesi-machine-guest-tools_0.17.1.orig.tar.gz
+ a10b2b8fdf8675ce082fa02522cbc5c4 1680 utils optional cartesi-machine-guest-tools_0.17.1-1.debian.tar.xz
+ 2d4505884bfba0cfac0d6811b7ce699e 33972 debug optional cartesi-machine-guest-libcmt-dbgsym_0.17.1-1_riscv64.ddeb
+ ef909d5851c03294f79b79441e03a6cb 47320 libdevel optional cartesi-machine-guest-libcmt-dev_0.17.1-1_riscv64.deb
+ 7089876224cdb7b944e593ee453f2fdc 17266 libs optional cartesi-machine-guest-libcmt_0.17.1-1_riscv64.deb
+ 3f108155554f0fa20df361596bb8fd15 1069044 debug optional cartesi-machine-guest-tools-dbgsym_0.17.1-1_riscv64.ddeb
+ 80f86a06193c630cb04bc20f1a98832a 10027 utils optional cartesi-machine-guest-tools_0.17.1-1_riscv64.buildinfo
+ 64ef9d0ef06e27451e10181bbd4977cf 1829256 utils optional cartesi-machine-guest-tools_0.17.1-1_riscv64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQJQBAEBCgA6FiEEr+okFx+iireNqrwdFbt0LjqlQYcFAmg3GoscHGNhcnRlc2kt
+ZGViLWJ1aWxkZXJAYnVpbGRlcgAKCRAVu3QuOqVBh5mWD/9Ei2xO6sBIxUzQO6Qa
+UjHYOIN16xh67QogjHXpyZ+htHcB8wgBtz3Vr4mVMYCnAm0X8k3x4zm5CuPGZ6Dn
+IKbufa+Z40ECREpzmXn8lzvWQTbu5141IN71j5q5Vh9huSnduVFBF+kAV8Qh0hxA
+h9ZI4lhsxv1ONAB9i3t1aC9vDxKlz0UM1Ddy6YliQasoT/eWjL+5nh3allvckvHD
+cQMz41sBqho7eUdXWmPNJsK7JfJoN5Q6cj4FMND9jHKVDP2ae4ffa1C/K1pkCSmZ
+8qo7+xMjBG0QeysNtJqb/ZvbvamLKJdmKoEXkF1jlsIfxXu4sTgBDaK96V4yscIc
+ylrcnR9Q50GfsMOOwd73cjv0Y7yjTxU82RuURZOXqOUyHO1mntTCM2IGZNNE35M6
+ergDD1n7hnUPNBB3sn1r9KfEvojyEtUpLgme2OuyvozsRnjtSrGBncuDj41LJpTA
+AKL9HtvdLxm6NeJEthvaT9tX+A5A21EnbsTciQnp2BkzD9PaQUw3lBTjhoC/e+vF
+7VuyhkX/5Z5FX68nayNFC4Wgsr4YH9awumZp4vZVc9KnmvRKeMo/JBx4JXuDJR8l
+QVQsVBEgXqqYgyHB/Zw2MUaN/LZB/6QnlCPC3LrkzZLKHwAO3QKNWcfWVJjHo4wa
+eh0nlLTFsYmiwkhAd/LwqaTeSw==
+=lZOi
+-----END PGP SIGNATURE-----

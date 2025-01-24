@@ -1,0 +1,59 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Tue, 21 Jan 2025 15:27:12 +0000
+Source: xgenext2fs
+Binary: xgenext2fs
+Built-For-Profiles: noudeb
+Architecture: source riscv64
+Version: 1.5.6-1
+Distribution: RELEASED
+Urgency: low
+Maintainer: Cartesi Machine Reference Unit
+Changed-By: Cartesi Deb Builder <cartesi-deb-builder@builder>
+Description:
+ xgenext2fs - ext2 filesystem generator for embedded systems
+Changes:
+ xgenext2fs (1.5.6-1) RELEASED; urgency=low
+ .
+   * Please read the project sources for release change logs.
+Checksums-Sha1:
+ 469341b41ff06b8101fd4da71f3f52096c004397 1806 xgenext2fs_1.5.6-1.dsc
+ 0af896eabc931d375df233ddab1f7628df9f713d 49824 xgenext2fs_1.5.6.orig.tar.gz
+ 99c29d25bd3fb5f0b393ace331123f9b9a996528 1112 xgenext2fs_1.5.6-1.debian.tar.xz
+ 85b5844ff7c8362c88dfa72ce6d192e6dc7ac588 79342 xgenext2fs-dbgsym_1.5.6-1_riscv64.ddeb
+ 95823e0345a558e9c22744f9ed3724e859afa055 7848 xgenext2fs_1.5.6-1_riscv64.buildinfo
+ 1c183ba280716bcecc71e851fe1a94fa1084a6bd 36968 xgenext2fs_1.5.6-1_riscv64.deb
+Checksums-Sha256:
+ 0125837b17d629a5897038f2c3fab7aa884342aed5eb0a2750ba83f27b9027b8 1806 xgenext2fs_1.5.6-1.dsc
+ 34bfc26a037def23b85b676912462a3d126a87ef15c66c212b3500650da44f9e 49824 xgenext2fs_1.5.6.orig.tar.gz
+ 312b9645fc13daa2a0fb63b5d0e7e8c15d6f2b428d414e1e60449f0673298c06 1112 xgenext2fs_1.5.6-1.debian.tar.xz
+ 829eb8ec26bd80a711d9a3a33c188c5ef46828e14a998cec7e83aa76f0d9d221 79342 xgenext2fs-dbgsym_1.5.6-1_riscv64.ddeb
+ 94ccfe91f6ec41bda55265154ff02d19902baf9e66ac1df99d4a209722463cdd 7848 xgenext2fs_1.5.6-1_riscv64.buildinfo
+ 847b30db5123759143b71dc3ef68990a71f79d6994cabb55370204d0b50efd13 36968 xgenext2fs_1.5.6-1_riscv64.deb
+Files:
+ 5b77a3de18e68af37d8dd1cfba39d486 1806 admin optional xgenext2fs_1.5.6-1.dsc
+ 154b71818461d0362cd8d8347d9ee6bf 49824 admin optional xgenext2fs_1.5.6.orig.tar.gz
+ fb287483d3182aa30e8a0c4f223e0ab4 1112 admin optional xgenext2fs_1.5.6-1.debian.tar.xz
+ 9f75c9e210d34389cb459598d87a13af 79342 debug optional xgenext2fs-dbgsym_1.5.6-1_riscv64.ddeb
+ 6241cc5e853fdf0db024f5b9a3b7fdb9 7848 admin optional xgenext2fs_1.5.6-1_riscv64.buildinfo
+ 72f83910a007e291b099747eb4aca49b 36968 admin optional xgenext2fs_1.5.6-1_riscv64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQJQBAEBCgA6FiEEr+okFx+iireNqrwdFbt0LjqlQYcFAmeRJ+gcHGNhcnRlc2kt
+ZGViLWJ1aWxkZXJAYnVpbGRlcgAKCRAVu3QuOqVBh3fDD/oC0eC0qpAGkcaGULpd
+SRqyqL9uAkYVRv+xiMU8tiwyHjVn4/kCuyTBYZihmeGDUCRKSDHXksIC+5d727I6
+RHhnDuCEtSEfB4ZIHe1/M7+NJfaufu0yUAPeCV+O3976o4I8E9Ac3MRqEYDxwA8l
+O5ud511BXuigDUKMniISB5L22bFPPLZE37kHK3zM0gSl5AtL8EliiRo98ShLq6Uc
+yFxT+IEeGK9kau81N/hj/sStR9TH+tA7udxeYlPAgf//KAmyH9+2Vb02gmD1wsVB
+UALDaAW15FUJwEoJG1Wo0EMNAhaxRWH3AjxHCN8/A5YKNcAp4cdfB32mdfdjoX2h
+OfPvpzB7ooUv/p0g6eC7yzbI1/HctcWqxpIRdDUQ0boWwnKvlsEeHyNHB3EDO8BZ
+njHbaDGqIISk7W0k/FEUU8G6eOnf5Zss5/cWiyqiarPZTSnxf5Fp1Lbv351G/BtP
+sdvCkMEB7iqMAFXlN4/jIgdFPRAHoV1/BPnmuw3MASGf3Q0hUkv0cU4+UgBk6gol
+g/59l+eVikL7r4pocw+m2JZPyc44GJ5+MBZd5DHYvS8Jsvfxjt/Ky2KiUlAsY5Ua
+7TTDyqBQcBX+0Yn5D2FHJ8otBff0oMdO9uNXbChFM1mBz2hgMKbk0VpKBY9F1dUA
+1FNhPjLg3Zd9B1ThbxD7TNCO3Q==
+=NjR5
+-----END PGP SIGNATURE-----

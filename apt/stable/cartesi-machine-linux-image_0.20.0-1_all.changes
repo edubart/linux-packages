@@ -1,0 +1,55 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Tue, 21 Jan 2025 15:26:41 +0000
+Source: cartesi-machine-linux-image
+Binary: cartesi-machine-linux-image
+Architecture: source all
+Version: 0.20.0-1
+Distribution: RELEASED
+Urgency: low
+Maintainer: Cartesi Machine Reference Unit
+Changed-By: Cartesi Deb Builder <cartesi-deb-builder@builder>
+Description:
+ cartesi-machine-linux-image - Cartesi Machine guest Linux kernel image
+Changes:
+ cartesi-machine-linux-image (0.20.0-1) RELEASED; urgency=low
+ .
+   * Please read the project sources for release change logs.
+Checksums-Sha1:
+ 26f419cdb831dce50fcc5272dd7d177684693f35 1949 cartesi-machine-linux-image_0.20.0-1.dsc
+ 38715fbf62cc0c479e7fe1dfa7415fc16e8b40c8 3683520 cartesi-machine-linux-image_0.20.0.orig.tar.gz
+ e44d61b3321955f9ce37879218b50e34324f1e7c 4540 cartesi-machine-linux-image_0.20.0-1.debian.tar.xz
+ b5976a7436f7059345b185fb0b6616de8f2bc718 6138 cartesi-machine-linux-image_0.20.0-1_all.buildinfo
+ 664971815b29028cfad346b0e7c718892673e113 2739468 cartesi-machine-linux-image_0.20.0-1_all.deb
+Checksums-Sha256:
+ 8bab3c881557ed129abd3e981370f6962b75a54c6577152fdd6d4aff7df24c31 1949 cartesi-machine-linux-image_0.20.0-1.dsc
+ c5b0a1ca55c86b98456c2572d3796cef6ad71b5f43a639ca5701020535d9cec7 3683520 cartesi-machine-linux-image_0.20.0.orig.tar.gz
+ a75538d546917c9affb652bf27050bc0f3ecc438259ac2abae6315239bf485fe 4540 cartesi-machine-linux-image_0.20.0-1.debian.tar.xz
+ 54da307b86b7501abecbb459010d71f477da56368343140df53212e126be5df2 6138 cartesi-machine-linux-image_0.20.0-1_all.buildinfo
+ f27c3f20771c6cd9023f5d567ce38c5880fc2fd342e9c57757e645aa2c6d3994 2739468 cartesi-machine-linux-image_0.20.0-1_all.deb
+Files:
+ 1033818a776dabe74626820617f0232c 1949 otherosfs optional cartesi-machine-linux-image_0.20.0-1.dsc
+ 219079d3e06dec0293a3699d212e7faf 3683520 otherosfs optional cartesi-machine-linux-image_0.20.0.orig.tar.gz
+ 8583ac23f06ab0c435149eed66dda3f5 4540 otherosfs optional cartesi-machine-linux-image_0.20.0-1.debian.tar.xz
+ be5d33b3d289fdcc21b82f7bf46f170d 6138 otherosfs optional cartesi-machine-linux-image_0.20.0-1_all.buildinfo
+ 755870f070667944ec4146d9737706be 2739468 otherosfs optional cartesi-machine-linux-image_0.20.0-1_all.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQJQBAEBCgA6FiEEr+okFx+iireNqrwdFbt0LjqlQYcFAmeRI8ccHGNhcnRlc2kt
+ZGViLWJ1aWxkZXJAYnVpbGRlcgAKCRAVu3QuOqVBhzD2D/9g+vwGR/8M9so12+tE
+ANYDLzXO7NeR5wH66cGUla307PBYtvMNhMOb+I9R3KnVjsp+bqt2aQeXKitjL6KE
+CPyT3iPU5OofUkGbL9HYgjB5Ufr9zNAI/pM/MK5QZbsnv39b9btjwc/Q2yAaNugQ
+dDWIPIzbG/tPRWj8MYDmLOadRgkzmGS3HLdW2WmnkOVw9XXXTufIj2ZF7A20qDcX
+uEz0xIb+mdluprSZTKCrG3kmZgfWHVW7JsDu2DHojHtGj59uzISs0goOfgNi9hFL
+BkgcBIwAQPqnZz/dVdh7kqiBaSuuQMJ/MvSuy2fsrTop1MnSwAODa6ZvYqBPO4q1
+AtKXEKcMbDyukxIuzwpFpBOth6oaLLZrMbuCrrVqYvfM5nlMYpE9svPPAb5KBTpX
+ag4g9bqs/o/tSb/upRou3nrz/WYkQSRZUMRqrDLy2BPyZJct4MgBK+5Dlc0pM73T
+UulUkCW2cfG7vPjTtuP9R3Sj9iaOQBt+7BcKMw265VC4G7OVYBBzb3U6bBwByOMJ
+srqG7AZh0pynAr53/iiyTJbSwjgq2rg2jHzYAmyEucZYIDXM/oGbb67Xr4EhQ7J6
+EK2hV2QtWhILto9VMfqPw6OCF64eZNsOvC6FKdIO4of3maIFCIwwddOt7iBoO3rG
+juYwEUOde4zJtmHXYiokWdl87Q==
+=arQ+
+-----END PGP SIGNATURE-----

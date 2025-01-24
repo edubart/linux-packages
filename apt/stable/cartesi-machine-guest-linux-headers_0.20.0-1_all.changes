@@ -1,0 +1,56 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Tue, 21 Jan 2025 15:27:02 +0000
+Source: cartesi-machine-guest-linux-headers
+Binary: cartesi-machine-guest-linux-headers
+Built-For-Profiles: noudeb
+Architecture: source all
+Version: 0.20.0-1
+Distribution: RELEASED
+Urgency: low
+Maintainer: Cartesi Machine Reference Unit
+Changed-By: Cartesi Deb Builder <cartesi-deb-builder@builder>
+Description:
+ cartesi-machine-guest-linux-headers - Cartesi Machine guest Linux kernel headers
+Changes:
+ cartesi-machine-guest-linux-headers (0.20.0-1) RELEASED; urgency=low
+ .
+   * Please read the project sources for release change logs.
+Checksums-Sha1:
+ 548216a73cdb83d00dc74c0a9a4b5f2f3a881010 2021 cartesi-machine-guest-linux-headers_0.20.0-1.dsc
+ e66ad90a042770c970b222f42817d34665e2e7d2 1257632 cartesi-machine-guest-linux-headers_0.20.0.orig.tar.xz
+ c1b8ab3dbe127998f457ba72c7c0eccb1f198fd1 4596 cartesi-machine-guest-linux-headers_0.20.0-1.debian.tar.xz
+ 6cfc7400440cd580c8bf44b32795beec1ed834d3 6928 cartesi-machine-guest-linux-headers_0.20.0-1_all.buildinfo
+ cb741731f0ed5590564acb3d05a4cd853506a223 1324670 cartesi-machine-guest-linux-headers_0.20.0-1_all.deb
+Checksums-Sha256:
+ 0f054c8b29bf4c324b2c054a7d3418ee72f9560d589b13c52a8fd5cb012fa969 2021 cartesi-machine-guest-linux-headers_0.20.0-1.dsc
+ 4a4714bfa8c0028cb443db2036fad4f8da07065c1cb4ac8e0921a259fddd731b 1257632 cartesi-machine-guest-linux-headers_0.20.0.orig.tar.xz
+ 8cdb398acef564ba15d92c7f6a88389a3c1d3fec6cfd819750d7a4d738b4ce54 4596 cartesi-machine-guest-linux-headers_0.20.0-1.debian.tar.xz
+ 609795eb70e6140167dc240385ec8d1dd82b2897756945b30bffacd765d475a6 6928 cartesi-machine-guest-linux-headers_0.20.0-1_all.buildinfo
+ 21068087cbf73903383256a61ecafabad359d4f9f4c8cb668776c55cc57b428d 1324670 cartesi-machine-guest-linux-headers_0.20.0-1_all.deb
+Files:
+ 3e39cf8e520575b24b4166d29e93e08a 2021 otherosfs optional cartesi-machine-guest-linux-headers_0.20.0-1.dsc
+ 64acb3179d9aed1eb2c5f894226c83cb 1257632 otherosfs optional cartesi-machine-guest-linux-headers_0.20.0.orig.tar.xz
+ 6990e6a5071546b8e004e9df85afbfa6 4596 otherosfs optional cartesi-machine-guest-linux-headers_0.20.0-1.debian.tar.xz
+ 611b8eabc45c95b1cbe595556ad9a361 6928 otherosfs optional cartesi-machine-guest-linux-headers_0.20.0-1_all.buildinfo
+ 30746598bc199a843d3d75fa5baaf525 1324670 otherosfs optional cartesi-machine-guest-linux-headers_0.20.0-1_all.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQJQBAEBCgA6FiEEr+okFx+iireNqrwdFbt0LjqlQYcFAmeRKDscHGNhcnRlc2kt
+ZGViLWJ1aWxkZXJAYnVpbGRlcgAKCRAVu3QuOqVBh2f5EACKHwgHGU1RteEzdktJ
+1YdNQOe0/dIo6g867tzz1xlSWxDpNLK8cYa6BP3EBZ46DjBqkRj1XR2CTyOFivmk
+5D8uGmFTuhdYH4ktZ+eMgY3tCVGWauuT6wiSSF6dDoLZhckmEGaguOaq+Ld0EXsz
+/yJ5usLoTGjecAxEwqyIj9U6QceUCf7mbAvI/Er1945rD8B9i3jshRwgrH0wMIG1
+1SpI7VadXwyM5x4Hjaig9W7Pl7IeeWzeersfVCw1Dr3upc/hiq1LpCYP/0AiUlVZ
+F/P+htDN8cnByRHwscYglogc3TGQw71BGtzWhi12L9EBbV8J1UmOGNeru5NnSjks
+17mEIG3iW+eDRT9etryMJ3uFK8cXau/OauuqeIJ2pK/uERfHN3L2GTDWX8O3gapk
+BTRy3PGAE1GSv8cjnlFVoeVbDRmFF1vutb7SGqzfbD/fljuZcqmtVbr1QPLakap8
+FhUA9E5/c2TAg/b8fyc0+JttNKSZ8ZQnK7tG9AXFtItjGZ8592R94rrzpJjTa3Ix
+1KujrfU7JONIkdTy7RSXWYzM/2nAUiN1YBfCaOvxvyr0z1rPI/djsSdC8h8s9rUh
+GbTtTAm9ZQnx4ZlVQy1nGoPNVKIINfqmYL+baOUFa18V5BQw31CNMhB0Dkn61ANG
+A8m56FVW+7USjlL+qiyRhATWBw==
+=G789
+-----END PGP SIGNATURE-----

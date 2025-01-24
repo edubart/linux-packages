@@ -1,0 +1,58 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Tue, 21 Jan 2025 15:27:12 +0000
+Source: xgenext2fs
+Binary: xgenext2fs xgenext2fs-dbgsym
+Architecture: source amd64
+Version: 1.5.6-1
+Distribution: RELEASED
+Urgency: low
+Maintainer: Cartesi Machine Reference Unit
+Changed-By: Cartesi Deb Builder <cartesi-deb-builder@builder>
+Description:
+ xgenext2fs - ext2 filesystem generator for embedded systems
+Changes:
+ xgenext2fs (1.5.6-1) RELEASED; urgency=low
+ .
+   * Please read the project sources for release change logs.
+Checksums-Sha1:
+ a9172bad0fc6acda402731d4b043028a111add06 1806 xgenext2fs_1.5.6-1.dsc
+ 0af896eabc931d375df233ddab1f7628df9f713d 49824 xgenext2fs_1.5.6.orig.tar.gz
+ 99c29d25bd3fb5f0b393ace331123f9b9a996528 1112 xgenext2fs_1.5.6-1.debian.tar.xz
+ 41e7cc0c91ed61db9c28bc0285827bc27a7966aa 77056 xgenext2fs-dbgsym_1.5.6-1_amd64.deb
+ 99a5181b9d4d7fecfedf84b2d5776d88ff93ef09 6380 xgenext2fs_1.5.6-1_amd64.buildinfo
+ a01fd18b7ef28862a56a83e456c5ab6934bc4b5b 29248 xgenext2fs_1.5.6-1_amd64.deb
+Checksums-Sha256:
+ 9148bb55abed92a1342a85fec4561521eb060aec6b57795f14c7e0255b2bf603 1806 xgenext2fs_1.5.6-1.dsc
+ 34bfc26a037def23b85b676912462a3d126a87ef15c66c212b3500650da44f9e 49824 xgenext2fs_1.5.6.orig.tar.gz
+ 312b9645fc13daa2a0fb63b5d0e7e8c15d6f2b428d414e1e60449f0673298c06 1112 xgenext2fs_1.5.6-1.debian.tar.xz
+ d90027e9bff2f2e8121d50b6c0fcf7dc17cf6f358964bbc9b1bb5b47971f67c8 77056 xgenext2fs-dbgsym_1.5.6-1_amd64.deb
+ b8dbc148ba92497649e6616a05dc9e8dc1e329be81e105dda18c8b07493d3f66 6380 xgenext2fs_1.5.6-1_amd64.buildinfo
+ ddaec38245d18dd3e814bd5d437f46b4bd5bee286245e05783eca688ed5176a6 29248 xgenext2fs_1.5.6-1_amd64.deb
+Files:
+ 4e3aaa8b80a08cc0f4838fae6d97917e 1806 admin optional xgenext2fs_1.5.6-1.dsc
+ 154b71818461d0362cd8d8347d9ee6bf 49824 admin optional xgenext2fs_1.5.6.orig.tar.gz
+ fb287483d3182aa30e8a0c4f223e0ab4 1112 admin optional xgenext2fs_1.5.6-1.debian.tar.xz
+ 4127c2455992bc54dc54a2dc62418cbb 77056 debug optional xgenext2fs-dbgsym_1.5.6-1_amd64.deb
+ 7cf5f4adb2454e406f552e7ccb9fc264 6380 admin optional xgenext2fs_1.5.6-1_amd64.buildinfo
+ 7924a2c0f4607b394672dd34576a57b8 29248 admin optional xgenext2fs_1.5.6-1_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQJQBAEBCgA6FiEEr+okFx+iireNqrwdFbt0LjqlQYcFAmeRJAocHGNhcnRlc2kt
+ZGViLWJ1aWxkZXJAYnVpbGRlcgAKCRAVu3QuOqVBhxtUD/4ibQG2tZvpwqovEkm5
+cks4yPDS+hJl/1vwFZLYbXI036FAfr+75Uxl9OMYVWbJcYOqaKn0f4xykoOKwq8A
+BhYJnFPKYaSHYBwBd7YlUr6clPPhuJrYEW6OtIKE6FljdTyl/TTzCKP9aqwytT0i
+vXu6tPi3AZo+6BaIuehIbxE8ktEvDBJe7zwewnnYFkbBPQim+wnyf3+Qv4M3H0oy
+HzYdr0mqz5zMWM5r9Mqw5Y/LvmxNRyzHL5+MTvY2VR3n4Vy+req1jpOGJaA3iBhs
+49U940ILaYz7Oh24BOfide24xf92kieNxZcK0i9rrVPybIae1jU40qhpW2BiWzzT
+sAHHFVlx7doMnQCcj6HhOg/YD8Bu3iNG7dUZfRr5S4WRiWyr+R3aqAldHEYfMGG/
+GZJAU+jAq+/UHIZqKcMWKVts/z3ZWdCzVCyKSr5V9kl1PqA4VXAOwf56zvdSEMks
+5L5TrOAvttv1hSiqrsT1HEph/HrXmdkluq7eJ0Z8suhXodmnUEzIv1A0g2B7P65+
+rMk5bPQXzndZINI6hdbPrB4EaBE0jMXgxAUO09Haip8oaj9xeEJYC69/2XhXquRd
+iMwHduwTU7UMNqUNTH2xY1t5GuxX7dPUcYpVaSw3EyB/aHSGODq3ON/PAzNoeVYW
+Yu273AuxHHEh/BFqRNrdPAPdew==
+=QNLF
+-----END PGP SIGNATURE-----

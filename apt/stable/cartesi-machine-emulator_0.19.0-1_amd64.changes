@@ -1,0 +1,66 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Wed, 28 May 2025 13:19:44 +0000
+Source: cartesi-machine-emulator
+Binary: cartesi-machine cartesi-machine-emulator cartesi-machine-emulator-dbgsym cartesi-machine-emulator-dev
+Architecture: source amd64
+Version: 0.19.0-1
+Distribution: RELEASED
+Urgency: low
+Maintainer: Cartesi Machine Reference Unit
+Changed-By: Cartesi Deb Builder <cartesi-deb-builder@builder>
+Description:
+ cartesi-machine - Cartesi Machine (meta-package)
+ cartesi-machine-emulator - Cartesi Machine emulator for RISC-V Linux systems
+ cartesi-machine-emulator-dev - Cartesi Machine emulator development files
+Changes:
+ cartesi-machine-emulator (0.19.0-1) RELEASED; urgency=low
+ .
+   * Please read the project sources for release change logs.
+Checksums-Sha1:
+ 6c4b9ed23e2b5c6d57b32f340fde696e71ab83f5 2157 cartesi-machine-emulator_0.19.0-1.dsc
+ 87c3e823e075a3fbf4c97019a479ee89d7669e8a 1177473 cartesi-machine-emulator_0.19.0.orig.tar.gz
+ ea61fafe8fc42078f1463085dddaccd6dcbb883e 83428 cartesi-machine-emulator_0.19.0-1.debian.tar.xz
+ bd5d35c7de9e78a0098d8b05836f748759a8ca46 31230560 cartesi-machine-emulator-dbgsym_0.19.0-1_amd64.deb
+ 088461066ba0eece5615e8cc546063b029b51a49 1087472 cartesi-machine-emulator-dev_0.19.0-1_amd64.deb
+ 02f880b678991e5fdf3b6c6e64429f566851918c 7727 cartesi-machine-emulator_0.19.0-1_amd64.buildinfo
+ 886955b5787a1bbf2e2e8c34eda05b60a1c95d9c 3039164 cartesi-machine-emulator_0.19.0-1_amd64.deb
+ 9b39df7460c79f7f914d7ce1d23def620c975841 10808 cartesi-machine_0.19.0-1_amd64.deb
+Checksums-Sha256:
+ 1afd3f2925edf56dd87ab182ac8260230ad84cf196206d6d923ae96fd1f67720 2157 cartesi-machine-emulator_0.19.0-1.dsc
+ 1a33fb7e0dd7030656ddbb214dcd2f5a569f64e906edb20f149b66b34e1e0dd3 1177473 cartesi-machine-emulator_0.19.0.orig.tar.gz
+ e15edf95c94ce4384bf4b9f67fa04b20caff36884ab9e26e79e193cc42fb65cd 83428 cartesi-machine-emulator_0.19.0-1.debian.tar.xz
+ af2a44ec0a8d0768b2c4f6b063c7928b95d822b0b1a153e0976a953be77fc1de 31230560 cartesi-machine-emulator-dbgsym_0.19.0-1_amd64.deb
+ 6f5cc177122cec47a8f674ca7c26249649d28cd0a26a4a48fde77fe126f4c19c 1087472 cartesi-machine-emulator-dev_0.19.0-1_amd64.deb
+ 13f8d39b02ccddb30a655dbab45913453c4a2fee161ce67aa3be26f8091aae2a 7727 cartesi-machine-emulator_0.19.0-1_amd64.buildinfo
+ 8ee760f267681dd921a91c07d21dba93d5f1d47d34d9b3d9ac56b140e91a8ed3 3039164 cartesi-machine-emulator_0.19.0-1_amd64.deb
+ e96520f9be86de8b029b2d04b3fe95801d2d69ed574d3543c1dbc0bbe4a15fd6 10808 cartesi-machine_0.19.0-1_amd64.deb
+Files:
+ cfaf948a901f0a6e1ec68d2281cb48e2 2157 otherosfs optional cartesi-machine-emulator_0.19.0-1.dsc
+ 0a81e26fb40286112260cb7916d6a4af 1177473 otherosfs optional cartesi-machine-emulator_0.19.0.orig.tar.gz
+ b83f0bea69e9f5a67bf25414c53e27fd 83428 otherosfs optional cartesi-machine-emulator_0.19.0-1.debian.tar.xz
+ d53c3467cfa998e36db78bbcdd617882 31230560 debug optional cartesi-machine-emulator-dbgsym_0.19.0-1_amd64.deb
+ c5a5b5a3cceb8c3cfe6cc92f41b0920c 1087472 libdevel optional cartesi-machine-emulator-dev_0.19.0-1_amd64.deb
+ db3fabc33d738c9a80f3b9e7ae6b5106 7727 otherosfs optional cartesi-machine-emulator_0.19.0-1_amd64.buildinfo
+ 50f8b9fe16194a80cf5ce6e259f78fb4 3039164 otherosfs optional cartesi-machine-emulator_0.19.0-1_amd64.deb
+ a5405b86818ad61e7bee5a0da0f18982 10808 otherosfs optional cartesi-machine_0.19.0-1_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQJQBAEBCgA6FiEEr+okFx+iireNqrwdFbt0LjqlQYcFAmg3D0kcHGNhcnRlc2kt
+ZGViLWJ1aWxkZXJAYnVpbGRlcgAKCRAVu3QuOqVBh/qiD/wMv2iQrwdAYRi5POOB
+HzRFLO8GYkqrWfOirRZV9JMmXTv/vJ59xHsCNKNMzZ5dgBDtpEriGputXm4Rmvar
+7NAQR2KivfBMpJSN1F6zS1WprWcVu63YleWC45zQMqqTARDwK5drQzTLF5vUkHNw
+CxIwax7c+zGcuYuoTz0+lyWOm1DBj9zJj6Q9qO/I+YlvRjyGlwXFKJ8t4Ja5UQJl
+97ZPHYAEPsioBqzTkTt6BGvmu/JvbVWY8vdo1xP5uQK2j0ynXTX1QEFo6loYJtwR
+K2W4eecy1nVfr4RL+KFQzRKDM1Xu0XkO58aVKGB4DTcZBed5NxxzKfWrXCQ1yIFG
+vtGzdKIj97UcoFKt81CHEJppv2NPM1kDLy/i74hNrYGrV/3BkTjHPAgNEnIom916
+cdrLnv19huJkjszIp91+oUc80xrms1VIxThAATL5oksj2qoBTvaCwmD3hZjZBlvi
+HWlHC+L6SPlTE0O3UcUaf7rZX+MvmgGPPayy/TYIRnVc06cQBoRjK0ZODEMZTSy7
+dyPVeVWxhtCGBdEy19/rO2jBi8zV92DFk6ilDbeG2RIcgTwKrjvrXE0tlHTgXqVX
+56uMV0aOIEIeXo8HGa+pt8RJGfoxkEXXWt8y/BWIBHVq2ZuFPwm82zNJk8IlmB17
+0K/H9DPdT2SIPNS4/EFVrFMrnQ==
+=KDPq
+-----END PGP SIGNATURE-----

@@ -1,0 +1,67 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Wed, 28 May 2025 13:19:44 +0000
+Source: cartesi-machine-emulator
+Binary: cartesi-machine cartesi-machine-emulator cartesi-machine-emulator-dev
+Built-For-Profiles: noudeb
+Architecture: source riscv64
+Version: 0.19.0-1
+Distribution: RELEASED
+Urgency: low
+Maintainer: Cartesi Machine Reference Unit
+Changed-By: Cartesi Deb Builder <cartesi-deb-builder@builder>
+Description:
+ cartesi-machine - Cartesi Machine (meta-package)
+ cartesi-machine-emulator - Cartesi Machine emulator for RISC-V Linux systems
+ cartesi-machine-emulator-dev - Cartesi Machine emulator development files
+Changes:
+ cartesi-machine-emulator (0.19.0-1) RELEASED; urgency=low
+ .
+   * Please read the project sources for release change logs.
+Checksums-Sha1:
+ b1c993f4b4fdcaf468c86b79953eb22ccc35172e 2157 cartesi-machine-emulator_0.19.0-1.dsc
+ 87c3e823e075a3fbf4c97019a479ee89d7669e8a 1177473 cartesi-machine-emulator_0.19.0.orig.tar.gz
+ ea61fafe8fc42078f1463085dddaccd6dcbb883e 83428 cartesi-machine-emulator_0.19.0-1.debian.tar.xz
+ f36129f4e32eaae7240e2033f7b1ecd14353b533 21381726 cartesi-machine-emulator-dbgsym_0.19.0-1_riscv64.ddeb
+ 7801350be9a17358fe757b4fa39de680ebb366e5 5922900 cartesi-machine-emulator-dev_0.19.0-1_riscv64.deb
+ 1537966dde82620cff2f57e1c389b78ee7a94ab0 8483 cartesi-machine-emulator_0.19.0-1_riscv64.buildinfo
+ 74ac286dcc63438ec36df1945e30fcd8c2fdd273 3694318 cartesi-machine-emulator_0.19.0-1_riscv64.deb
+ e85fa6d683406084f0dc428ac4f6e7f0100dcaf0 1710 cartesi-machine_0.19.0-1_riscv64.deb
+Checksums-Sha256:
+ 1e143c9bb57e87a0abd3191cf0de4c586748b2881083811024520e4566e9df37 2157 cartesi-machine-emulator_0.19.0-1.dsc
+ 1a33fb7e0dd7030656ddbb214dcd2f5a569f64e906edb20f149b66b34e1e0dd3 1177473 cartesi-machine-emulator_0.19.0.orig.tar.gz
+ e15edf95c94ce4384bf4b9f67fa04b20caff36884ab9e26e79e193cc42fb65cd 83428 cartesi-machine-emulator_0.19.0-1.debian.tar.xz
+ 634ef5ce1954f0ebdbc29c34aebbabc99f256c13d4d3d1663acf584672079ed1 21381726 cartesi-machine-emulator-dbgsym_0.19.0-1_riscv64.ddeb
+ 97d02b7d7ce3e891be5c6e33a8dd927b18b222f7dedcb6877389c61f30503472 5922900 cartesi-machine-emulator-dev_0.19.0-1_riscv64.deb
+ a416adfeb66a80e49901c0299d94e2710134bd2c04f53245bc19d7fd167b614d 8483 cartesi-machine-emulator_0.19.0-1_riscv64.buildinfo
+ 363fec1590bb8b9464772e19c51502a5cdb01f8039d801a9cc3cdde885d367cd 3694318 cartesi-machine-emulator_0.19.0-1_riscv64.deb
+ b5d002cb42ec19da07d81c2ca21116ae7bd97fae9a0f4029d8a9a4deb0520197 1710 cartesi-machine_0.19.0-1_riscv64.deb
+Files:
+ 10824f223c6469e624929302c405e7ec 2157 otherosfs optional cartesi-machine-emulator_0.19.0-1.dsc
+ 0a81e26fb40286112260cb7916d6a4af 1177473 otherosfs optional cartesi-machine-emulator_0.19.0.orig.tar.gz
+ b83f0bea69e9f5a67bf25414c53e27fd 83428 otherosfs optional cartesi-machine-emulator_0.19.0-1.debian.tar.xz
+ b779a1102519f6b68c0ac64b0fe0861c 21381726 debug optional cartesi-machine-emulator-dbgsym_0.19.0-1_riscv64.ddeb
+ 5793050caa3ee2ddf350d64dd638f0df 5922900 libdevel optional cartesi-machine-emulator-dev_0.19.0-1_riscv64.deb
+ b8d09ba2732ae377ac660601121b7e8c 8483 otherosfs optional cartesi-machine-emulator_0.19.0-1_riscv64.buildinfo
+ 1f14157300f3b4da8c7782a230c9d1de 3694318 otherosfs optional cartesi-machine-emulator_0.19.0-1_riscv64.deb
+ b83821ce9982206ab35559ac7c35eaa4 1710 otherosfs optional cartesi-machine_0.19.0-1_riscv64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iQJQBAEBCgA6FiEEr+okFx+iireNqrwdFbt0LjqlQYcFAmg3E8scHGNhcnRlc2kt
+ZGViLWJ1aWxkZXJAYnVpbGRlcgAKCRAVu3QuOqVBhzcsD/4j2UGdB/ehyc/vWjJ1
++/v0roSBUWCcb/IG1j3upeZh+478sdZdD13yJGMkDXvUxhzKcymdTdlTxYqaSHi7
+JseXotMv0Y8kLR9b/TexxLrdLRGKYBQNfG6p5/sFyV6ishMjG9l6HgBWDXnECpvq
+1MubvGMpmAXrlVFxqxeUPQ3tNIcxwv1XbOWmc7TbXfTQ9jdBS4nFzuY3Q6iuBti3
+vcZiM/u04yc9fLXgNNHtGo2CO15XVt0vQU8R7cCFNZAp7dGX9BBFcEIiLF/zGDAS
+Tq4enuVeBiNG0CmrX1kIMHP40ftdvAim43NbmIKr3M+81eVgN8U+f2eGijF2SeER
+iInBAUxzNK5GbsBFjxo0SzIUqkxxVH66g3eQmOxB8EI5aYdx6mbM5SQd6UTNgfa5
+MMjlXLrOQJK0ILaQAsMlpx6zaNpTAAEHTUqj3LP2h16MmoNSYWjKSt/3G6ErE8E4
+GUzBsnEM0kl5NhJrdXjJs7R9hmmnn5dl4gwU2ytFwzUDpO+m5a66j4GwO+fABrq9
+Qt3wtNYvhrlsqylkrOPRso2xUOoIk6n/sZHkuuqG3w1TiGCpNdbcgG0DQZV+VPVd
+xMPKv1ePXHAIqOD2GNB5aPZ2KbMzcG1Oe2ayFHvLsNUhTitOPGRm8ItaLPRCeaK8
+Syh1c1Vv15RknYVeSHFuvqdoRA==
+=rO3+
+-----END PGP SIGNATURE-----
